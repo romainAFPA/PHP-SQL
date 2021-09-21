@@ -1,0 +1,18 @@
+
+
+Découverte des différentes manières d'interroger la base de données
+
+
+Dans phpMyAdmin : 
+	Créer une nouvelle base de données
+		nommée "zodiaque" au format utf8_general_ci
+
+	Pour créer les tables :
+		Insérer le SQL du fichier zodiaque-signes.sql
+
+Contrôler les paramètres de connexion dans le fichier :
+	_connection.php
+	par défaut l'utilisateur est root sans mot de passe
+	sinon mettez votre utilisateur.
+
+

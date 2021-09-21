@@ -1,0 +1,34 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.container a {
+    text-decoration: none;
+    margin-left: 30%;
+}
+/*COULEURS*/
+table, th, td, tr {
+    border:1px solid red;
+}
+
+/*COULEURS EXERCICE 5*/
+.air {
+    background: hotpink;
+}
+.feu {
+    background: lightgreen;
+}
+.eau {
+    background: lightcyan;
+}
+.terre {
+    background: yellow;
+}
+.metal {
+    background: lightgray;
+}
+
